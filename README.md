@@ -26,10 +26,9 @@ Controlado mediante L298N.
 
 ## Estado actual
 
-
 - [x] Prueba del eje Z
 - [x] Prueba básica del eje X
-- [ ] Control simultáneo X-Z
+- [x] Control simultáneo X-Z
 - [ ] Calibración de X
 - [ ] Calibración de Z
 - [ ] Posicionamiento absoluto
